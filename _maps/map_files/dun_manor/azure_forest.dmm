@@ -2031,8 +2031,8 @@
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/under/cavewet/bogcaves)
 "qV" = (
-/obj/item/quiver/arrows,
-/obj/item/quiver/arrows,
+/obj/item/ammo_holder/quiver/arrows,
+/obj/item/ammo_holder/quiver/arrows,
 /obj/structure/table/wood/bar{
 	icon_state = "longtable";
 	dir = 1
